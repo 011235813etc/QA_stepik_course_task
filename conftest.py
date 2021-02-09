@@ -11,8 +11,8 @@ language_settings = [
 
 # Добавление параметра --language
 def pytest_addoption(parser):
-    parser.addoption('--language', action='store', default=None,
-                     help="Choose language: es or fr")
+    parser.addoption('--language', action='store', default='en',
+                     help="Choose language: " + ", ".join(language_settings))
 
 
 # Фикстура запуска и закрытия браузера
