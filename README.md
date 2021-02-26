@@ -1,7 +1,8 @@
-# QA_stepik_course_task
+# QA_tests_stepik_course_task
 
 This is homework from stepik "QA course with Selenium and Python" (chapter 3 lesson 6 step 9).
 Link to course: https://stepik.org/course/575/syllabus
+Course completed. Link to certificate: https://stepik.org/cert/892410
 Link to homework: https://stepik.org/lesson/237240/step/9?unit=209628
 
 Link with instructions installing Python 3 and virtual environment:
