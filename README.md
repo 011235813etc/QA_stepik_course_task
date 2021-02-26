@@ -1,4 +1,7 @@
-# stepik_QA_chapter3_lesson6_step9
+# QA_stepik_course_task
+
+Homework from chapter 3 lesson 6 step 9. 
+Link: https://stepik.org/lesson/237240/step/9?unit=209628
 
 Домашнее задание из 3 раздела 6 урока 9 уровня:
 "Запуск автотестов для разных языков интерфейса"
